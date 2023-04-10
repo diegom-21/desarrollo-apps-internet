@@ -1,0 +1,44 @@
+*{
+    font-family: 'Prompt', sans-serif;
+}
+
+#izquierda{
+    padding-top: 10px;
+    height: 32cm;
+    background-color: rgb(45, 45, 114);
+}
+
+hr {
+    height: 10px;
+    background-color: rgb(255, 253, 253);
+}
+.container{
+    padding-top: 40px;
+}
+
+.card{
+    margin-bottom: 20px;
+    
+}
+
+.card-header{
+    background-color: rgb(206, 207, 207);
+    font-weight: bold;
+
+}
+
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 3px solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+li {
+    color: white;
+    }
+

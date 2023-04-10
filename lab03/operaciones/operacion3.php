@@ -30,7 +30,7 @@ $promedio = ($nota1 + $nota2 + $nota3) / 3;
           <h4>
             <?php
               if ($promedio >= 13) {
-                echo "<p>El alumno ha aprobado con un promedio de " . $promedio . "</p>";
+                echo "<p>El alumno tiene una nota regular de " . $promedio . "</p>";
               } else {
               echo "<p>El alumno ha reprobado con un promedio de " . $promedio . "</p>";
               }
