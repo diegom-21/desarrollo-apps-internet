@@ -1,0 +1,12 @@
+body{
+    background-image: url('../img/fondo.png');
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}
+
+table{
+    background-color: rgb(255, 255, 255);
+}
